@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --font-main: Rajdhani;
+  --color-main: #060606;
+}
